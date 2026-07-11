@@ -6,4 +6,4 @@
 //
 // The device must be able to reach this address on your network — localhost
 // on a physical phone refers to the phone itself, not your dev machine.
-export const API_URL = 'http://10.0.2.2:5000';
+export const API_URL = 'https://realtime-chat-app-l69t.onrender.com';
